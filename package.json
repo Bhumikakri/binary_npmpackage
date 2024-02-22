@@ -1,0 +1,16 @@
+{
+  "name": "bhumi_binarynpm",
+  "version": "1.0.0",
+  "description": "this is test module for binary package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "backend"
+  ],
+  "author": "bhumika",
+  "license": "ISC"
+}
